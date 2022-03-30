@@ -17,6 +17,5 @@
 <img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=c&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=github&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=figma&logoColor=61DAFB"/></a>
-<img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=figma&logoColor=61DAFB"/></a>
-<img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=figma&logoColor=61DAFB"/></a>
-<img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=figma&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=slack&logoColor=61DAFB"/></a>
+<img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=trello&logoColor=61DAFB"/></a>
