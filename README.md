@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/C-20232A?style=flat-square&logo=c&logoColor=61DAFB"/></a>
 <img src="https://img.shields.io/badge/Github-20232A?style=flat-square&logo=github&logoColor=fff"/></a>
-<img src="https://img.shields.io/badge/Figma-20232A?style=flat-square&logo=figma"/></a>
+<img src="https://img.shields.io/badge/Figma-00F700?style=flat-square&logo=figma"/></a>
 <img src="https://img.shields.io/badge/Slack-20232A?style=flat-square&logo=slack"/></a>
 <img src="https://img.shields.io/badge/Trello-20232A?style=flat-square&logo=trello"/></a>
