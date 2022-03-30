@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=hyeonze&theme=radical&show_icons=true&hide=stars,issues" />
 
 ### Links
-<a href="https://drive.google.com/file/d/1xqhmyYbiXBCT2EukOd9XOFTDzdc5itYR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0052CC?style=flat-square"/></a>
+<a href="https://drive.google.com/file/d/11C3p2S4Xt_a_uX-FghmW_iKRIiiTaLTA/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0052CC?style=flat-square"/></a>
 <a href="https://velog.io/@hyeonze"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 ### Skills
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
